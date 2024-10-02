@@ -74,7 +74,7 @@ Contributions are welcome! Please follow these steps:
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sneharc16/Customer-Segmentation-using-Machine-Learning-in-R/blob/main/License) file for details.
 
 ## Contact
 **Sneha RC**  
