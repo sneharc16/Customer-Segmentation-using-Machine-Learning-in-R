@@ -8,7 +8,6 @@ This project is a graded final project submission for BAS-108 Programming with R
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
@@ -72,9 +71,6 @@ Contributions are welcome! Please follow these steps:
     git push origin feature-branch
     ```
 5. Create a new Pull Request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/sneharc16/Customer-Segmentation-using-Machine-Learning-in-R/blob/main/License) file for details.
 
 ## Contact
 **Sneha RC**  
